@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Aslave2137\Desktop\Nauka\Algosy 2\Grafy moje Select CMakeLists.txt

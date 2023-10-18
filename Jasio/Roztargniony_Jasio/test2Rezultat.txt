@@ -1,0 +1,1 @@
+trzeba rozbic co najmniej 5   (np numery 1, 10 ,3 , 5 , 14)
