@@ -1,0 +1,3 @@
+C:/Users/Aslave2137/Desktop/Nauka/Algosy 2/Przemytnicy/cmake-build-debug/CMakeFiles/Przemytnicy.dir
+C:/Users/Aslave2137/Desktop/Nauka/Algosy 2/Przemytnicy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aslave2137/Desktop/Nauka/Algosy 2/Przemytnicy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
